@@ -1,5 +1,5 @@
-# Augmented-Flight-AVR-
+# Augmented Flight
 AVR Project - UXD Master
  
-Nadine Kupitza (nak7705@thi.de)
+Nadine Kupitza (nak7705@thi.de),
 Laura Forster (laf3489@thi.de)
